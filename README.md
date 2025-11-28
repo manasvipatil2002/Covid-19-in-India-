@@ -1,5 +1,6 @@
 
 **Covid-19-in-india Dashboard**
+---
 <p align="center">
   <img width="850" height="470" src="images.jfif">
 </p> 
