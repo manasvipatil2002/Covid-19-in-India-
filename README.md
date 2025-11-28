@@ -1,5 +1,8 @@
 
-**Executive Retail Sales Dashboard**
+**Covid-19-in-india Dashboard**
+<p align="center">
+  <img width="850" height="470" src="images.jfif">
+</p> 
 
 ## 📌 Project Overview
 This project analyzes the spread, impact, and management of COVID-19 in India using multiple datasets, including case counts, vaccination records, testing information, demographic details, and state boundaries.
@@ -54,30 +57,13 @@ Individual case details (where available)
 ---
 
 ## 📂 Project Files
-Overview dashboard (Q4 2018 snapshot)
+Overview dashboard 
+
 <p align="center">
-  <img width="850" height="470" src="images.jfif">
+  <img width="850" height="470" src="Dashboard 1.pdf">
 </p> 
 
 
-NYC-focused performance analysis (2017–2018) 
-
-<p align="center">
-  <img width="850" height="470" src="">
-</p> 
-
-Central region performance (2018)  
-
-<p align="center">
-  <img width="850" height="470" src="">
-</p> 
-
-
-Overall performance (2017–2018 full period)  
-
-<p align="center">
-  <img width="850" height="470" src="">
-</p> 
 
 
 
