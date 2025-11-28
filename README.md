@@ -59,7 +59,7 @@ Individual case details (where available)
 ## 📂 Project Files
 Overview dashboard 
 <p align="center">
-  <img width="850" height="470" src="Dashboard 1.pdf">
+  <img width="850" height="470" src="Dashboard 1.png">
 </p>
 
 
